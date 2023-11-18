@@ -1,0 +1,1 @@
+# diy-civicrm-standalone
